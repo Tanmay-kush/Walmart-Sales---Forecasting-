@@ -7,7 +7,7 @@ Data cleaning and transformation of Walmart's historical weekly sales data
 
 Exploratory Data Analysis (EDA) to understand seasonality and trends
 
-Time series modeling using Facebook Prophet for accurate forecasting
+Time series modeling using ARIMA forecasting
 
 Forecast visualizations for specific departments and stores
 
